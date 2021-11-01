@@ -1,2 +1,2 @@
 # hello-world
-Olá, mundo! Esse é meu primeiro repositório no github.
+Olá, mundo! Meu nome é Gabriel Tavares e esse é meu primeiro repositório no github.
